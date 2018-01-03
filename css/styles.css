@@ -1,0 +1,10 @@
+h2.intro{
+  color:red;
+}
+p.intro{
+  font-style: italic;
+}
+
+img.intro{
+  width: 50%
+}
