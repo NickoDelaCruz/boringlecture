@@ -1,10 +1,7 @@
-h2.intro{
+.intro{
   color:red;
-}
-p.intro{
   font-style: italic;
 }
-
-img.intro{
-  width: 50%
+.img{
+  width:50%;
 }
